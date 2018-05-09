@@ -1,0 +1,13 @@
+C:\Users\ut28v1\Documents\perso\BotProjects\VirtualUserBot\WindowsInput\bin\Debug\WindowsInput.xml
+C:\Users\ut28v1\Documents\perso\BotProjects\VirtualUserBot\WindowsInput\bin\Debug\WindowsInput.dll
+C:\Users\ut28v1\Documents\perso\BotProjects\VirtualUserBot\WindowsInput\bin\Debug\WindowsInput.pdb
+C:\Users\ut28v1\Documents\perso\BotProjects\VirtualUserBot\WindowsInput\obj\Debug\WindowsInput.csproj.CoreCompileInputs.cache
+C:\Users\ut28v1\Documents\perso\BotProjects\VirtualUserBot\WindowsInput\obj\Debug\WindowsInput.dll
+C:\Users\ut28v1\Documents\perso\BotProjects\VirtualUserBot\WindowsInput\obj\Debug\WindowsInput.pdb
+C:\Users\ut28v1\Source\Repos\VirtualUserBot\WindowsInput\bin\Debug\WindowsInput.xml
+C:\Users\ut28v1\Source\Repos\VirtualUserBot\WindowsInput\bin\Debug\WindowsInput.dll
+C:\Users\ut28v1\Source\Repos\VirtualUserBot\WindowsInput\bin\Debug\WindowsInput.pdb
+C:\Users\ut28v1\Source\Repos\VirtualUserBot\WindowsInput\obj\Debug\WindowsInput.csprojResolveAssemblyReference.cache
+C:\Users\ut28v1\Source\Repos\VirtualUserBot\WindowsInput\obj\Debug\WindowsInput.csproj.CoreCompileInputs.cache
+C:\Users\ut28v1\Source\Repos\VirtualUserBot\WindowsInput\obj\Debug\WindowsInput.dll
+C:\Users\ut28v1\Source\Repos\VirtualUserBot\WindowsInput\obj\Debug\WindowsInput.pdb

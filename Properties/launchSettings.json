@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "VirtualUserBot": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DEBUG": "1"
+      }
+    }
+  }
+}

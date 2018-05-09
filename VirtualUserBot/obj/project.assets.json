@@ -1,0 +1,81 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.6.1": {
+      "WindowsInput/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/WindowsInput.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WindowsInput.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WindowsInput/1.0.0": {
+      "type": "project",
+      "path": "../WindowsInput/WindowsInput.csproj",
+      "msbuildProject": "../WindowsInput/WindowsInput.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.6.1": [
+      "WindowsInput >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\ut28v1\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restoreSettings": {
+      "hideWarningsAndErrors": true
+    },
+    "restore": {
+      "projectUniqueName": "C:\\Users\\ut28v1\\Source\\Repos\\VirtualUserBot\\VirtualUserBot\\VirtualUserBot.csproj",
+      "projectName": "VirtualUserBot",
+      "projectPath": "C:\\Users\\ut28v1\\Source\\Repos\\VirtualUserBot\\VirtualUserBot\\VirtualUserBot.csproj",
+      "packagesPath": "C:\\Users\\ut28v1\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ut28v1\\Source\\Repos\\VirtualUserBot\\VirtualUserBot\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\ut28v1\\Source\\Repos\\VirtualUserBot\\.nuget\\NuGet.Config",
+        "C:\\Users\\ut28v1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
+      ],
+      "originalTargetFrameworks": [
+        "net461"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net461": {
+          "projectReferences": {
+            "C:\\Users\\ut28v1\\Source\\Repos\\VirtualUserBot\\WindowsInput\\WindowsInput.csproj": {
+              "projectPath": "C:\\Users\\ut28v1\\Source\\Repos\\VirtualUserBot\\WindowsInput\\WindowsInput.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net461": {}
+    }
+  }
+}
